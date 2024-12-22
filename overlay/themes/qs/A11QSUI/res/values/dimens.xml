@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- A11 QQS Layout -->
+    <dimen name="qqs_bottom_brightness_margin_bottom">0.0dip</dimen>
+    <dimen name="qqs_bottom_brightness_margin_top">-7.0dip</dimen>
+    <dimen name="qqs_layout_padding_bottom">4.0dip</dimen>
+    <dimen name="qqs_top_brightness_margin_bottom">16.0dip</dimen>
+    <dimen name="qqs_top_brightness_margin_top">-24.0dip</dimen>
+
+    <!-- A11 QS Layout -->
+    <dimen name="qs_bottom_brightness_margin_bottom">16.0dip</dimen>
+    <dimen name="qs_bottom_brightness_margin_top">-5.0dip</dimen>
+    <dimen name="qs_top_brightness_margin_bottom">20.0dip</dimen>
+    <dimen name="qs_top_brightness_margin_top">4.0dip</dimen>
+    <dimen name="qs_controls_top_margin">24.0dip</dimen>
+  
+    <!-- A11 Rising Widgets layout -->
+    <dimen name="qs_controls_margin_bottom">18.0dip</dimen>
+    <dimen name="qs_controls_padding_top">260.0dip</dimen>
+  
+    <!-- A11 QS Layout -->
+    <dimen name="qs_panel_padding_top">100.0dip</dimen>
+    <dimen name="qs_quick_tile_size">58.0dip</dimen>
+    <dimen name="qs_tile_height">96.0dip</dimen>
+    <dimen name="qs_tile_margin_horizontal">20.0dip</dimen>
+    <dimen name="qs_tile_margin_vertical">16.0dip</dimen>
+    <dimen name="qs_tile_padding">10.0dip</dimen>
+    <dimen name="qs_tile_text_size">12.0sp</dimen>
+
+</resources>
